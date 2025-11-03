@@ -11,4 +11,4 @@ function countVowels(str) {
 }
 
 
-console.log(countVowels("")) ;
+console.log(countVowels("Emma")) ;
